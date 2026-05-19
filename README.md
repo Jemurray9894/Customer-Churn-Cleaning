@@ -1,0 +1,1 @@
+This project focuses on preparing a customer churn dataset for analysis by performing data cleaning and preprocessing. The goal is to ensure the dataset is accurate, consistent, and suitable for downstream analytics such as exploratory data analysis, modeling, and visualization.
